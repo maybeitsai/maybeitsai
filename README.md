@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm maybeitsai 👋</h1>
+<h1 align="center">Hi there, I'm Harry Mardika 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F78C6C&center=true&vCenter=true&width=435&lines=AI+is+not+magic...;...but+maybe+it's+me+🧠✨" />
@@ -21,15 +21,48 @@
 
 ---
 
+### 🚀 What I Do
+
+- 🧠 Build ML models with **TensorFlow**, **PyTorch**, and **scikit-learn**
+- 🧰 Implement **Deep Learning pipelines**, deploy on **cloud platforms**
+- 🔐 Work on **Cybersecurity AI**, e.g., XSS detection and anomaly classification
+- 🔍 Research NLP with **transformer models** like BERT and GPT-2
+- 👥 Mentor & facilitate learning communities in **AI & ML education**
+
+---
+
 ### 🧰 Tech Stack
 
-```python
-Languages:    Python · R · SQL
-Frameworks:   PyTorch · TensorFlow · Scikit-learn · Hugging Face · LangChain
-Data:         Pandas · Spark · Airflow · dbt
-DevOps:       Docker · GitHub Actions · GCP · AWS · Streamlit
-Other:        LLMs · NLP · CV · MLOps · Graph AI
-```
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black"
+  />
+  <img
+    src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"
+  />
+</p>
+
 
 ---
 
@@ -44,12 +77,12 @@ Other:        LLMs · NLP · CV · MLOps · Graph AI
 
 ### 📂 Featured Projects
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 📰 [Fake News Detection](https://github.com/maybeitsai/hoax-detection) | CNN model to detect Indonesian fake news | Python, CNN, Web Deployment |
-| 🔐 [XSS Attack Detection](https://github.com/maybeitsai/xss-detection-pipeline) | DL-based cybersecurity model with 98.97% accuracy | NLP, Tokenization, DL |
-| 🎥 [Movie Recommender](https://github.com/maybeitsai/Movie-Recommendation-System) | Hybrid recommendation using CB & CF + DL | Cosine Similarity, KMeans, DL |
-| 📈 [BCA Stock Predictor](https://github.com/maybeitsai/BCA-Stock-Forecasting) | LSTM forecasting with RMSE 0.0052 | TensorFlow, Time Series |
+| Project                                                                           | Description                                       | Tech Stack                    |
+| --------------------------------------------------------------------------------- | ------------------------------------------------- | ----------------------------- |
+| 📰 [Fake News Detection](https://github.com/maybeitsai/hoax-detection)            | CNN model to detect Indonesian fake news          | Python, CNN, Web Deployment   |
+| 🔐 [XSS Attack Detection](https://github.com/maybeitsai/xss-detection-pipeline)   | DL-based cybersecurity model with 98.97% accuracy | NLP, Tokenization, DL         |
+| 🎥 [Movie Recommender](https://github.com/maybeitsai/Movie-Recommendation-System) | Hybrid recommendation using CB & CF + DL          | Cosine Similarity, KMeans, DL |
+| 📈 [BCA Stock Predictor](https://github.com/maybeitsai/BCA-Stock-Forecasting)     | LSTM forecasting with RMSE 0.0052                 | TensorFlow, Time Series       |
 
 ---
 
@@ -60,7 +93,3 @@ Other:        LLMs · NLP · CV · MLOps · Graph AI
 ---
 
 > “In a world of models, be the one who thinks beyond the parameters.”
-
-```
-
----
