@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <b>Machine Learning Engineer</b> | <b>AI Researcher</b> | <b>Data Science Specialist</b>
+  <b>Machine Learning Engineer</b> | <b>AI Researcher</b> | <b>Data Scienctist</b>
 </p>
 
 ---
