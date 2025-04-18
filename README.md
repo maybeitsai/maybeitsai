@@ -21,12 +21,12 @@
 - 🔭 Currently exploring **cutting-edge AI** and **open-source LLMs**
 - 🧠 Passionate about **Machine Learning research**, **Cloud Computing**, and **data-driven innovation**
 - 👨‍🏫 Also mentoring and guiding ML enthusiasts on their tech journey
-- 📍 Based in Indonesia, collaborating globally 🚀
+- 📍 Based in Indonesia, collaborating globally
 - 💬 Ask me about anything AI/ML related – from theory to production!
 
 ---
 
-### 🚀 What I Do
+### ☄️ What I Do
 
 - 🧠 Build ML models with **TensorFlow**, **PyTorch**, and **scikit-learn**
 - 🧰 Implement **Deep Learning pipelines**, deploy on **cloud platforms**
